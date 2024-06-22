@@ -12,7 +12,7 @@ Insyt is a Streamlit-based application for performing classification and regress
 1. Clone this repository.
 
    ```bash
-   git clone https://github.com/your-username/insyt.git
+   git clone https://github.com/Sanmuga/insyt.git
    ```
 
 2. Change into the project directory.
